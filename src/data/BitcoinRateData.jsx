@@ -1,0 +1,1 @@
+export const bitcoinRateData = ["USD", "AUD", "NZD", "GBP", "EUR", "SGD"];
